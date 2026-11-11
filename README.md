@@ -9,6 +9,7 @@ Perceptrón multicapa para clasificar tumores de mama (Breast Cancer Wisconsin, 
 | Archivo | Qué es |
 |---|---|
 | `IEI097_Lab2.12_MLP_MLflow.ipynb` | Notebook ejecutado de punta a punta, con hipótesis, experimentos y respuestas de cierre |
+| `IEI097_Lab2.12_MLP_MLflow.pdf` | El mismo notebook en PDF, con las salidas y las figuras |
 | `runs.csv` | Las 12 ejecuciones exportadas con `mlflow.search_runs()` |
 | `datos/breast_cancer.csv` | Copia del conjunto de datos para reproducir sin credenciales de Kaggle |
 | `evidencias/` | Capturas de la interfaz de MLflow y figuras generadas por el notebook |
